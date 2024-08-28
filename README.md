@@ -23,7 +23,7 @@ The Health Information System (HIS) is designed to improve patient care by reduc
 
 1. Clone the repository
     ```sh
-    git clone https://github.com/Ange-Mukundente/HealthInformationSystem.git
+    git clone https://github.com/vincetoby/HealthInformationSystem.git
     ```
 2. Navigate to the project directory
     ```sh
